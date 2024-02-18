@@ -1,5 +1,7 @@
-# input
-nama = "Kobar"
+name = input("Ali Sofyan Saputra :")
 
+# Membuat output sesuai dengan format yang diinginkan
+output = f"Hello {name}! Saya Golang, bahasa yang sangat menyenangkan."
 
-# kode disini
+# Menampilkan output
+print(output)
